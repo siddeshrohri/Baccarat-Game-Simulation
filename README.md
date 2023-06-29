@@ -5,14 +5,14 @@ This project is a simulation of the card game Baccarat, specifically the 'punto 
    
 The objective of this project is to implement a simulation of the card game Baccarat, specifically the 'punto banco' variant. The implementation should adhere to the provided Java classes: Card, CardCollection, and CardException. These classes serve as the foundation for the solution.
 
-3. Basic Solution
+2. Basic Solution
    
 The basic solution requires implementing the following classes:
 
 BaccaratCard: Represents a single playing card in Baccarat.
 BaccaratHand: Represents a hand of cards in Baccarat.
 Shoe: Represents the 'shoe' from which cards are dealt in Baccarat.
-Additionally, a small program should be implemented in Baccarat.java that utilizes the above classes.
+Additionally, a small program should be implemented in Baccarat.java that utilizes the above classes
 
 3. Main Program
    
